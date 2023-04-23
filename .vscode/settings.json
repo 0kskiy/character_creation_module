@@ -1,4 +1,11 @@
 {
     "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.analysis.extraPaths": [
+        "./character_creation_module/graphic_arts",
+        "./character_creation_module/graphic_arts",
+        "./character_creation_module/graphic_arts.start_game_banner/graphic_arts",
+        "./character_creation_module/,/graphic_arts",
+        "./character_creation_module/graphic_arts/graphic_arts"
+    ]
 }
